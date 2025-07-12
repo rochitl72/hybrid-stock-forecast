@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore model weights and logs
+*.h5
+*.log
+
+# Ignore results/visualization (optional)
+visualise/
+results/
+
+# Ignore system/IDE files
+.DS_Store
+.vscode/
